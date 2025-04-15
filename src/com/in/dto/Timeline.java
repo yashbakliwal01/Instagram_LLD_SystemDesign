@@ -18,5 +18,4 @@ public class Timeline {
 		this.posts = posts;
 	}
 	
-
 }
