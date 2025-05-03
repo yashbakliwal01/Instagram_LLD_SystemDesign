@@ -1,5 +1,5 @@
 📸 Instagram LLD System Design (Java + Multithreading)
-This project is a Low-Level Design (LLD) simulation of a simplified Instagram-like social media platform, developed in Java using object-oriented principles, multithreading, and design patterns. It demonstrates real-world backend concepts such as user profiles, posts, reels, likes, comments, follow requests, and timelines.
+This project is a Low-Level Design (LLD) simulation of a simplified Instagram-like social media platform, developed in Java using object-oriented principles, multithreading, and design patterns. It demonstrates real-world backend concepts such as user profiles, posts, reels, likes, comments, follow requests.
 
 -------------
 
