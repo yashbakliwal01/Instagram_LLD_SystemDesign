@@ -31,13 +31,8 @@ This project is a Low-Level Design (LLD) simulation of a simplified Instagram-li
   - Upload reels with captions and video links
   - Like and comment on reels
   - Timeline integration with reels
-
-- **Timeline Feature**
-  - Fetch timeline based on last seen
   - View new posts/reels from followed profiles
 
 - **Multithreading for Likes**
   - Ensures thread-safe like/unlike operations using `ReentrantLock`
-
----
 
