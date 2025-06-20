@@ -16,7 +16,7 @@ public class Profile {
     private Timeline timeline;
     private boolean isCelebrity;
     private LocalDateTime lastSeen;
-	private List<Notification> notifications;
+    private List<Notification> notifications;
     
 	public Profile(String email, String password, String id) {
 		super();
