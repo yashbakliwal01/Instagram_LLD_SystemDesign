@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Profile {
-	private String email;
+    private String email;
     private String password;
     private String id;
     private List<Post> posts;
